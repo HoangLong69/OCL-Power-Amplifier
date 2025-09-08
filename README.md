@@ -33,5 +33,5 @@
 </div>
 
 <div align="center">
-    <img src="AudioVideo2.heif" title="Smart Traffic Light System" width="800">
+    <img src="AudioVideo2.jpg" title="Smart Traffic Light System" width="800">
 </div>
