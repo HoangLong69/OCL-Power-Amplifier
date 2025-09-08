@@ -31,3 +31,7 @@
 <div align="center">
     <img src="OCL-Led Matrix.jpg" title="Smart Traffic Light System" width="800">
 </div>
+
+<div align="center">
+    <img src="AudioVideo2.heif" title="Smart Traffic Light System" width="800">
+</div>
